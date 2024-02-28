@@ -1,2 +1,2 @@
-#####  3D model manipulation.
+# 3D model manipulation.
 
